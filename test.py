@@ -28,7 +28,7 @@ class MyTestCase(unittest.TestCase):
     def test_windows_support(self):
         # windows specific testing code
         pass
-
+# To test run python -m unitest -v 
 
 if __name__ == '__main':
     unittest.main()        
