@@ -30,5 +30,5 @@ class MyTestCase(unittest.TestCase):
         pass
 # To test run python -m unitest -v 
 
-if __name__ == '__main':
+if __name__ == '__main__':
     unittest.main()        
